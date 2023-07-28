@@ -661,10 +661,10 @@ a.active {
 .timeline-event h4{
     font-size: 16px;
     font-weight: 600;
-    color: #32abe4;
+    color: #32b0eb;
 }
 .timeline-event h4::before{
-    background-color: #32abe4;
+    background-color: #32b0eb;
 }
 /* contact
 ==================================================*/
